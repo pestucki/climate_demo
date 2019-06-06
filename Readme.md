@@ -4,3 +4,6 @@ This is my demo
 - second bullet
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pestucki/climate_demo/master)
+
+## DOI included below with zenodo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pestucki/climate_demo/master)
